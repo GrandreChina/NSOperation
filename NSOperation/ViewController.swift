@@ -6,7 +6,7 @@
 //然后将NSOperation对象添加到NSOperationQueue中
 //系统会自动将NSOperationQueue中的NSOperation取出来
 //将取出的NSOperation封装的操作放到一条新线程中执行
-
+//2016
 
 import UIKit
 
